@@ -38,12 +38,12 @@
 </div>
 <div align=center>
 	<a href="https://yermi.co.kr">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+		<img src="https://img.shields.io/badge/LinkedIn-FF3633?style=flat&logo=LinkedIn&logoColor=white" />
 	</a>
-	<a href="https://yermi.tistory.com">
+	<a href="https://minjoon-park-hk.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="mailto:admin@yermi.co.kr">
+	<a href="mailto:minjoon.park.hk@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
