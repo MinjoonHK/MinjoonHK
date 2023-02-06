@@ -23,6 +23,7 @@
 	<img src="https://img.shields.io/badge/Pycharm%20IDE-2C2255?style=flat&logo=Pycharm&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-43B02A?style=flat&logo=Docker&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/Cmder-F8DC75?style=flat&logo=Cmder&logoColor=white" />
@@ -36,7 +37,7 @@
 </div>
 <div align=center>
 	<a href="https://www.linkedin.com/in/minjoonpark/">
-		<img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=LinkedIn&logoColor=white" />
+		<img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
 	</a>
 	<a href="https://minjoon-park-hk.com">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
