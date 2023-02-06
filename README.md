@@ -30,7 +30,11 @@
 	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
 	<img src="https://img.shields.io/badge/PSIM-809CC9?style=flat&logo=PSIM&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Arduino%20Code-007ACC?style=flat&logo=Arduino&logoColor=white" />
 </div>
+	<img src="https://img.shields.io/badge/STM32-F7DF1E?style=flat&logo=STM32&logoColor=white" />
+	<br>
 <br>
 <div align=center>
 	<p>🎨 Contacts 🎨</p>
