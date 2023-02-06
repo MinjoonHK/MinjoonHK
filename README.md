@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Minjoon's%20Github!&fontSize=50&fontColor=black)
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Languages & Platforms✨</p>
+	<p>✨ Languages & Libraries✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
