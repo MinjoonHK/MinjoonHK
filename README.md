@@ -10,11 +10,11 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-4479A1?style=flat&logo=TypeScript&logoColor=white" />
+	<img src="https://img.shields.io/badge/TypeScript-4479A1?style=flat&logo=TypeScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-43B02A?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-F80000?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	
 	<br>
 </div>
