@@ -46,9 +46,6 @@
 	<a href="https://www.linkedin.com/in/minjoonpark/">
 		<img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
 	</a>
-	<a href="https://minjoon-park-hk.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
 	<a href="mailto:minjoon.park.hk@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
