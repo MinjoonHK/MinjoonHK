@@ -10,12 +10,12 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=React&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-4479A1?style=flat&logo=TypeScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-43B02A?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-F80000?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-4479A1?style=flat&logo=C++&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/Pytorch-000000?style=flat&logo=Pytorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	
 	<br>
 </div>
 <br>
@@ -28,14 +28,9 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-43B02A?style=flat&logo=Docker&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Cmder-F8DC75?style=flat&logo=Cmder&logoColor=white" />
-	<img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" />
-	<img src="https://img.shields.io/badge/PSIM-809CC9?style=flat&logo=PSIM&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-FCC624?style=flat&logo=Linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Arduino%20Code-007ACC?style=flat&logo=Arduino&logoColor=white" />
-	<img src="https://img.shields.io/badge/STM32-F7DF1E?style=flat&logo=STM32&logoColor=white" />
 	</div>
 	<br>
 <br>
