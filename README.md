@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Minjoon's%20Github!&fontSize=50&fontColor=black)
 <div align=center>
 	<h3>📓Check out my Portfolio📓</h3>
-	<p><a href="https://minjoon-park-portfolio.com/"></p>
+	<p><a href="https://minjoon-park-portfolio.com/">https://minjoon-park-portfolio.com/</a></p>
 </div>
+<br/>
+<br/>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages & Libraries✨</p>
