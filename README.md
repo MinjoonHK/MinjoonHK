@@ -4,7 +4,6 @@
 	<p><a href="https://minjoon-park-portfolio.com/">https://minjoon-park-portfolio.com/</a></p>
 </div>
 <br/>
-<br/>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Languages & Libraries✨</p>
