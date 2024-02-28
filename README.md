@@ -52,6 +52,6 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjoonHK&layout=compact">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=MinjoonHK&show_icons=true">
- -->
+<img src="https://github-readme-stats.vercel.app/api?username=MinjoonHK&show_icons=true">
+
 
