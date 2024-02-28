@@ -49,7 +49,7 @@
 
 <span>
     <a href="mailto:minjoon.park.hk@gmail.com">
-        <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=Gmail" />-=
+        <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=Gmail" />
     </a>
 	<span>
     
