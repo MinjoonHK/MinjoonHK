@@ -42,12 +42,7 @@
 	<p>🎨 Contacts 🎨</p>
 </div>
 
-<span>
- <a href="https://www.linkedin.com/in/minjoonpark/">
-		<img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
-</a>
 
-</span>
 <div align=center>
 
  <span>
@@ -56,7 +51,12 @@
 </a> 
  </span>
 
+<span>
+ <a href="https://www.linkedin.com/in/minjoonpark/">
+		<img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
+</a>
 
+</span>
 
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjoonHK&layout=compact"> -->
