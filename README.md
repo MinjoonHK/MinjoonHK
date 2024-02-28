@@ -49,18 +49,19 @@
 
 <span>
     <a href="mailto:minjoon.park.hk@gmail.com">
-        <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=Gmail" />
+        <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=Gmail" />-
     </a>
+	<span>
+    <a href="https://www.linkedin.com/in/minjoonpark/">
+        <img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
+    </a>
+</span>
 </span>
 
 </div>
 
 <div align=center>
-<span>
-    <a href="https://www.linkedin.com/in/minjoonpark/">
-        <img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
-    </a>
-</span>
+
  </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjoonHK&layout=compact"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MinjoonHK&show_icons=true"> -->
