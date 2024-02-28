@@ -45,7 +45,10 @@
 	
 <a href="mailto:minjoon.park.hk@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-FFFFFF?style=flat&logo=Gmail" />
-	</a>
+</a>
+ <a href="https://www.linkedin.com/in/minjoonpark/">
+		<img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
+</a>
 
 </div>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjoonHK&layout=compact"> -->
