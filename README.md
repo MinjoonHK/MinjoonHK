@@ -42,16 +42,15 @@
 	<p>🎨 Contacts 🎨</p>
 </div>
 <div align=center>
-	<a href="https://www.linkedin.com/in/minjoonpark/">
-		<img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
-	</a>
-	<a href="mailto:minjoon.park.hk@gmail.com">
+	
+<a href="mailto:minjoon.park.hk@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+ <a href="https://www.linkedin.com/in/minjoonpark/">
+		<img src="https://img.shields.io/badge/LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white" />
 	</a>
 	<br>
 </div>
-<div align=center>
-	<br>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjoonHK&layout=compact"> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=MinjoonHK&show_icons=true"> -->
 
