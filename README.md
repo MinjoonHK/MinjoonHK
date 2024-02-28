@@ -18,15 +18,15 @@
 	<img src="https://img.shields.io/badge/TypeScript-4479A1?style=flat&logo=TypeScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-43B02A?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
-	<img src="https://img.shields.io/badge/Python-F80000?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat&logo=MongoDB&logoColor=white" />
 </div>
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/Pycharm%20IDE-2C2255?style=flat&logo=Pycharm&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-43B02A?style=flat&logo=Docker&logoColor=white" />
