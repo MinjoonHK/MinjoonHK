@@ -31,8 +31,9 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Docker-007ACC?style=flat&logo=Docker&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/MySQL-FCC624?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-WorkBench-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-43B02A?style=flat&logo=MongoDB&logoColor=white" />
 	<br>
 	</div>
 	<br>
@@ -52,6 +53,6 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjoonHK&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=MinjoonHK&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=MinjoonHK&show_icons=true"> -->
 
 
