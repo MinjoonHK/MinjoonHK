@@ -47,7 +47,7 @@
 
 <span>
     <a href="mailto:minjoon.park.hk@gmail.com">
-        <img src="https://img.shields.io/badge/Mail-FFFFFF?style=flat&logo=Gmail" />
+        <img src="https://img.shields.io/badge/G-Mail-FFFFFF?style=flat&logo=Gmail" />
     </a>
 </span>
 
