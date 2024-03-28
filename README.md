@@ -36,6 +36,7 @@
 	<img src="https://img.shields.io/badge/Docker-007ACC?style=flat&logo=Docker&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 	<img src="https://img.shields.io/badge/MongoDB-43B02A?style=flat&logo=MongoDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/Vercel-181717?style=flat&logo=Vercel&logoColor=white" />
 	<br>
 	</div>
 	<br>
