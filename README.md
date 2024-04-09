@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=43B02A&height=200&text=Minjoon's%20Github!&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&text=Minjoon's%20Github!&fontSize=50&fontColor=ffffff)
 <div align=center>
 	<h3>📓Check out my Portfolio📓</h3>
 	<p><a href="https://minjoon-park-portfolio.com/">https://minjoon-park-portfolio.com/</a></p>
